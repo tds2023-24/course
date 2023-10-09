@@ -1,0 +1,35 @@
+embeddings {
+  tensor_name: "workclass:00000"
+  metadata_path: "00000/workclass/metadata.tsv"
+  tensor_path: "00000/workclass/tensors.tsv"
+}
+embeddings {
+  tensor_name: "education:00001"
+  metadata_path: "00001/education/metadata.tsv"
+  tensor_path: "00001/education/tensors.tsv"
+}
+embeddings {
+  tensor_name: "marital-status:00002"
+  metadata_path: "00002/marital-status/metadata.tsv"
+  tensor_path: "00002/marital-status/tensors.tsv"
+}
+embeddings {
+  tensor_name: "occupation:00003"
+  metadata_path: "00003/occupation/metadata.tsv"
+  tensor_path: "00003/occupation/tensors.tsv"
+}
+embeddings {
+  tensor_name: "relationship:00004"
+  metadata_path: "00004/relationship/metadata.tsv"
+  tensor_path: "00004/relationship/tensors.tsv"
+}
+embeddings {
+  tensor_name: "race:00005"
+  metadata_path: "00005/race/metadata.tsv"
+  tensor_path: "00005/race/tensors.tsv"
+}
+embeddings {
+  tensor_name: "education-num_na:00006"
+  metadata_path: "00006/education-num_na/metadata.tsv"
+  tensor_path: "00006/education-num_na/tensors.tsv"
+}
